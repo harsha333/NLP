@@ -1,2 +1,2 @@
 # NLP
-NLP Practice
+NLP Concepts with brief examples.
